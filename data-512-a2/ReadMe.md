@@ -53,7 +53,7 @@ Some of the analysis visuals are shown below for quick reference.
 
 ![Distribution of mean toxicity score by annotation workers education](https://github.com/amolduw/data-512/blob/main/data-512-a2/plots/Distribution%20of%20workers%20mean%20toxicity%20rating%20by%20education.png)
 
-![Word cloud for words considered aggressive but not toxic](https://github.com/amolduw/data-512/blob/main/data-512-a2/plots/Word%20Cloud%20for%20Aggressive%20comments%20that%20are%20not%20considered%20Toxic.png)
+![Word cloud for words considered Toxic but not Aggressive](https://github.com/amolduw/data-512/blob/main/data-512-a2/plots/Word%20Cloud%20for%20Toxic%20comments%20that%20are%20not%20considered%20Aggressive.png)
   
 ## License
 This project is available under the [MIT License](https://github.com/amolduw/data-512/blob/main/data-512-a2/LICENSE)

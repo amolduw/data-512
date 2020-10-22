@@ -31,7 +31,7 @@ I used two datasets hostile speech - toxicity & aggression for the analysis.
 ```
 
 ## Requirements
-[Python](https://www.python.org/)- version 3.x
+[Python v 3.x](https://www.python.org/)
 
 ## Visualizations
 

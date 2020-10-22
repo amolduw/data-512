@@ -32,7 +32,11 @@ I used two datasets hostile speech - toxicity & aggression for the analysis.
 
 ## Requirements
 [Python](https://www.python.org/)- version 3.x
+
+## Visualizations
+
+
   
 ## License
-This project is available under the [MIT License]
+This project is available under the [MIT License] (https://github.com/amolduw/data-512/blob/main/data-512-a2/LICENSE)
 

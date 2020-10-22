@@ -31,12 +31,12 @@ I used two datasets hostile speech - toxicity & aggression for the analysis.
 ```
 
 ## Requirements
-[Python v 3.x](https://www.python.org/)
+[Python v3.x](https://www.python.org/)
 
 ## Visualizations
 
 
   
 ## License
-This project is available under the [MIT License] (https://github.com/amolduw/data-512/blob/main/data-512-a2/LICENSE)
+This project is available under the [MIT License](https://github.com/amolduw/data-512/blob/main/data-512-a2/LICENSE)
 

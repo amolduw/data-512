@@ -45,14 +45,19 @@ We have discussed findings at detail in notebook. Below is summary.
 
 Some of the analysis visuals are shown below for quick reference.
 
+### Aggression annotation workers demographic distribution
 ![Aggression annotation workers demographic distribution](https://github.com/amolduw/data-512/blob/main/data-512-a2/plots/Aggression%20annotation%20workers%20demographic%20balance.png)
 
-![Aggression annotations distribution by annotation worker demographic ](https://github.com/amolduw/data-512/blob/main/data-512-a2/plots/Aggression%20annotations%20demographic%20distribution.png)
+### Aggression annotations distribution by annotation worker demographic
+![Aggression annotations distribution by annotation worker demographic](https://github.com/amolduw/data-512/blob/main/data-512-a2/plots/Aggression%20annotations%20demographic%20distribution.png)
 
+### Distribution of mean aggression score by annotation workers age group
 ![Distribution of mean aggression score by annotation workers age group](https://github.com/amolduw/data-512/blob/main/data-512-a2/plots/Distribution%20of%20workers%20mean%20aggression%20rating%20by%20age%20group.png)
 
+### Distribution of mean toxicity score by annotation workers education
 ![Distribution of mean toxicity score by annotation workers education](https://github.com/amolduw/data-512/blob/main/data-512-a2/plots/Distribution%20of%20workers%20mean%20toxicity%20rating%20by%20education.png)
 
+### Word cloud for words considered Toxic but not Aggressive
 ![Word cloud for words considered Toxic but not Aggressive](https://github.com/amolduw/data-512/blob/main/data-512-a2/plots/Word%20Cloud%20for%20Toxic%20comments%20that%20are%20not%20considered%20Aggressive.png)
   
 ## License

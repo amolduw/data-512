@@ -18,7 +18,7 @@ I used two datasets hostile speech - toxicity & aggression for the analysis.
 2. [Agression Datasets](https://figshare.com/articles/dataset/Wikipedia_Talk_Labels_Aggression/4267550)
 
 ## Terms of data use
-[Wikimedia](https://foundation.wikimedia.org/wiki/Terms_of_Use/en) Terms of use
+Terms of Use for these datasets are documented at [Wikimedia](https://foundation.wikimedia.org/wiki/Terms_of_Use/en) in detail.
 
 ## Directory Structure
 ```bash
